@@ -2,16 +2,19 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '文档代码化 (Sphinx) 教程'
+copyright = '2021, DAC Tutorial'
+author = 'DAC Tutorial'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.1'
 
 # -- General configuration
 
+language = 'zh_CN'
+
 extensions = [
+    'myst_parser',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
