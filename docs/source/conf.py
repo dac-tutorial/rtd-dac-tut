@@ -14,7 +14,7 @@ version = '1.0.1'
 language = 'zh_CN'
 
 extensions = [
-    'myst_parser',
+    # 'myst_parser',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
