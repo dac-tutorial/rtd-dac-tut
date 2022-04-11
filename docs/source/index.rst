@@ -24,9 +24,9 @@
    :caption: 目录：
    :numbered:
 
-   quick-start.rst
-   rst-guide.rst
-   local-and-cloud-release.rst
-   set-theme.rst
-   collaborative-github.rst
-   blogging-with-jekll.rst
+   quick-start.md
+   rst-guide.md
+   local-and-cloud-release.md
+   set-theme.md
+   collaborative-github.md
+   blogging-with-jekll.md
